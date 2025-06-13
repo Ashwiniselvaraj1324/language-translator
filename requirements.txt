@@ -1,1 +1,24 @@
+# Streamlit app UI
+streamlit
+
+# LangChain core and community tools
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+
+# PDF loader dependencies
+PyMuPDF  # Required for PyPDFLoader
+
+# Embeddings
+sentence-transformers
+
+# Vector store
+faiss-cpu  # Use `faiss-gpu` if you have CUDA support
+
+# DuckDuckGo Search (if used elsewhere)
+duckduckgo-search
+
+# Misc
+tqdm
 
